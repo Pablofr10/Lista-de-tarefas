@@ -1,0 +1,20 @@
+.lista {
+    width: 600px;
+    margin: auto;
+    padding-top: 0;
+}
+
+.lista ul {
+    width: 100%;
+    margin: auto;
+    padding: 0;
+}
+
+.lista ul li {
+    border-radius: 20px 40px 60px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    list-style: none;
+    font-size: 25px;
+    background: #F0F8FF;
+}

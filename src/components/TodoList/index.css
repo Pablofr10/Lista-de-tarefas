@@ -1,0 +1,47 @@
+.add-items {
+    width: 100%;
+    display: block;
+    margin: auto;
+    align-items: stretch;
+}
+
+form {
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.input {
+    width: 400px;
+    height: 50px;
+    border-radius: 20px;
+    border: 1px solid #87CEEB;
+    padding: 0 10px;
+}
+
+.add-items button {
+    width: 50px;
+    height: 50px;
+    margin: 5px 0 0 10px;
+    background: #87CEFA;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    border: 1px;
+    color: #4682B4;
+    transition-delay: 0.2s;
+}
+
+.add-items button:hover {
+    background-color: #DCDCDC;
+    color: rgb(28, 115, 187);
+    cursor: pointer;
+}
+
+.add-items p {
+    text-align: center;
+    color: cornflowerblue;
+}
